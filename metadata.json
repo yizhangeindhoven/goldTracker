@@ -1,0 +1,5 @@
+{
+  "name": "Gold Price Tracker",
+  "description": "A simple web application that displays the latest gold price in Chinese Yuan, compares it with yesterday's price, and provides a prediction for the next day using the Gemini API.",
+  "requestFramePermissions": []
+}
